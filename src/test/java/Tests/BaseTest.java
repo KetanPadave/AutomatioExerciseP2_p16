@@ -2,19 +2,9 @@ package Tests;
 
 import Utilities.DriverManager;
 import Utilities.QaEnvPropReader;
-import io.github.bonigarcia.wdm.WebDriverManager;
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
-import org.apache.poi.ss.usermodel.Workbook;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeTest;
-
-import java.io.FileInputStream;
 import java.io.IOException;
 
 import static java.util.concurrent.TimeUnit.SECONDS;
@@ -32,7 +22,6 @@ public class BaseTest {
 
     @AfterClass
     public void teardown(){
-
 //        driver.quit();
     }
 

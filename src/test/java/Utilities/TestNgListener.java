@@ -13,8 +13,6 @@ import java.io.IOException;
 
 public class TestNgListener implements ITestListener {
 
-
-
     public void onTestFailure(ITestResult result) {
         TakesScreenshot srcShot = ((TakesScreenshot)DriverManager.getDriver());
         File SrcFile = srcShot.getScreenshotAs(OutputType.FILE);

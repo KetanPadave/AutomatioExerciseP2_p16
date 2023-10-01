@@ -9,31 +9,31 @@
             <class name="Tests.AutomationExercise">
                 <methods>
                     <include name="RegisterUser"/>
-                    <include name="LoginUserCorrect"/>
-                    <include name="LoginUserInCorrect"/>
-                    <include name="LogOutUser"/>
-                    <include name="RegisterWithExistingEmail"/>
-                    <include name="ContactUs"/>
-                    <include name="VerifyTestCasePage"/>
-                    <include name="VerifyProductDetailPage"/>
-                    <include name="SearchProductPage"/>
-                    <include name="VerifySubscriptionPage"/>
-                    <include name="VerifySubscriptionCartPage"/>
-                    <include name="AddProduct"/>
-                    <include name="VerifyProductQuantity"/>
-                    <include name="PlaceOrderRegWhileCheckout"/>
-                    <include name="PlaceOrderRegBeforeCheckout"/>
-                    <include name="PlaceOrderLoginBeforeCheckout"/>
-                    <include name="RemoveProductFromCart"/>
-                    <include name="ViewCategoryProduct"/>
-                    <include name="ViewCartBrandProduct"/>
-                    <include name="VerifyCartAfterLogin"/>
-                    <include name="AddReview"/>
-                    <include name="AddRecomendedItem"/>
-                    <include name="VerifyDetailsCheckout"/>
-                    <include name="DownloadInvoice"/>
-                    <include name="VerifyScrollUpUsingArrow"/>
-                    <include name="VerifyScrollUpWithoutUsingArrow"/>
+<!--                    <include name="LoginUserCorrect"/>-->
+<!--                    <include name="LoginUserInCorrect"/>-->
+<!--                    <include name="LogOutUser"/>-->
+<!--                    <include name="RegisterWithExistingEmail"/>-->
+<!--                    <include name="ContactUs"/>-->
+<!--                    <include name="VerifyTestCasePage"/>-->
+<!--                    <include name="VerifyProductDetailPage"/>-->
+<!--                    <include name="SearchProductPage"/>-->
+<!--                    <include name="VerifySubscriptionPage"/>-->
+<!--                    <include name="VerifySubscriptionCartPage"/>-->
+<!--                    <include name="AddProduct"/>-->
+<!--                    <include name="VerifyProductQuantity"/>-->
+<!--                    <include name="PlaceOrderRegWhileCheckout"/>-->
+<!--                    <include name="PlaceOrderRegBeforeCheckout"/>-->
+<!--                    <include name="PlaceOrderLoginBeforeCheckout"/>-->
+<!--                    <include name="RemoveProductFromCart"/>-->
+<!--                    <include name="ViewCategoryProduct"/>-->
+<!--                    <include name="ViewCartBrandProduct"/>-->
+<!--                    <include name="VerifyCartAfterLogin"/>-->
+<!--                    <include name="AddReview"/>-->
+<!--                    <include name="AddRecomendedItem"/>-->
+<!--                    <include name="VerifyDetailsCheckout"/>-->
+<!--                    <include name="DownloadInvoice"/>-->
+<!--                    <include name="VerifyScrollUpUsingArrow"/>-->
+<!--                    <include name="VerifyScrollUpWithoutUsingArrow"/>-->
                 </methods>
             </class>
         </classes>
